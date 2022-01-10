@@ -18,3 +18,7 @@ Arguments:<br>
 <br>
 Distributed under the MIT-License, <br>
 Copyright 2022 Maximilian Wittmer<br>
+
+----
+
+This was quickly whipped out of my fingers during a 30 minutes coding session. No guarantee given!
